@@ -15,14 +15,13 @@
 ## Ferramentas e Tecnologias
 
 ![image](https://github.com/linieprado/linieprado/assets/79236944/dd36bc62-8db6-4a50-a243-683c3f73663d) ![image](https://github.com/linieprado/linieprado/assets/79236944/5b76e4c4-0602-4a59-8f52-08dcb4da9d4c) ![image](https://github.com/linieprado/linieprado/assets/79236944/c7b7b2cc-ef13-4ced-a780-6ce380075744) ![image](https://github.com/linieprado/linieprado/assets/79236944/c3bfb46a-7227-40b3-a1c9-716d550363dc)
-    
-         
-
-## Estou aprendendo
-
+ 
 ![image](https://github.com/linieprado/linieprado/assets/79236944/91ebffdd-7359-4a2e-9869-6f3fa6e62d92) ![image](https://github.com/linieprado/linieprado/assets/79236944/d3e342e4-40b5-4ef7-9dfc-721c9696070f) ![image](https://github.com/linieprado/linieprado/assets/79236944/984ad391-9e95-45ee-84fc-41ef4c089217) ![image](https://github.com/linieprado/linieprado/assets/79236944/19972c2c-b7c6-4847-a06c-c5775bec9b20)
 
+       
+## Estou aprendendo
 
+...
 
 ## Contatos:
 
