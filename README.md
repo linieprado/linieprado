@@ -2,9 +2,10 @@
 ## My name is Aline Prado and my nickname is "Linie"!
 
 - :woman_technologist: Atualmente estou trabalhando com Tecmologia Educacional, sou Pedadoga e Secretária Executiva.
-- :computer: Atualmente estou aprendendo Python e Banco de Dados, mas também conheço um pouco de HTML| CSS |JS e React.
+- :computer: Atualmente estou em transição de carreira para QA!
 - :robot: Curiosidade: Após mudar de carreira para área de tecnologia me apaixonei pela Robótica Educacional e por LEGOS!
 - :video_game: Sou Gamer e amo assistir filmes de terror e séries criminais!
+- Conheço um pouco de  Python e Banco de Dados,  HTML| CSS |JS e React.
 
 <div align="center">
     <img width="tamanho da imagem" src="https://github.com/linieprado/linieprado/assets/79236944/c9ca6dbf-d192-449f-9cad-69ffbc75c9d8"/>
