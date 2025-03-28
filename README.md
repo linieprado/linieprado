@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Aline Prado and my nickname is "Linie"!
 
-- :woman_technologist: Atualmente estou trabalhando com Tecmologia Educacional, sou Pedadoga e Secretária Executiva.
+- :woman_technologist: Sou Analista de Tecnologia Educacional, pedagoga e secretária executiva.
 - :computer: Atualmente estou em transição de carreira para QA!
 - :robot: Curiosidade: Após mudar de carreira para área de tecnologia me apaixonei pela Robótica Educacional e por LEGOS!
 - :video_game: Sou Gamer e amo assistir filmes de terror e séries criminais!
