@@ -21,7 +21,9 @@
        
 ## Estou aprendendo
 
-...
+![image](https://www.cypress.io/_astro/cypress-logo.D87396b0.svg)    ![image](https://assets.xmind.net/www/assets/images/new-xmind-logo-dark-60f56e9142.svg).
+
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6UqzK0_xc3n567OvQ5L9cV9WI3_bsv1g-w&s) 
 
 ## Contatos:
 
