@@ -21,9 +21,13 @@
        
 ## Estou aprendendo
 
-![image](https://www.cypress.io/_astro/cypress-logo.D87396b0.svg)    ![image](https://assets.xmind.net/www/assets/images/new-xmind-logo-dark-60f56e9142.svg).
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" width="90" height="90" alt="cypress">
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6UqzK0_xc3n567OvQ5L9cV9WI3_bsv1g-w&s) 
+<img src="https://play-lh.googleusercontent.com/nu11CuK_leCzc6ZXmM1Jy6_P3Pj9sgQE64IHIYaRcZ9klHHvIrqGEVGUOPl60FND0as=w240-h480-rw" width="90" height="90" alt="xmind">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" width="90" height="90" alt="selenium">
+
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png" width="90" height="90" alt="Postman">
 
 ## Contatos:
 
